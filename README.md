@@ -8,10 +8,10 @@ Technology has always been present in my life, even if not in professional ways!
 
 My journey through Humanities didn't come close to being a waste of time ... it led me to get where I am now, with all my strengths and potentials, which will help me to succeed in technology and maybe, who knows, in your project!
 
-I'm currently working as a react developer at Farmly, seeking to collaborate with Front-end projects using React
-Contact me: 
-[![Linkedin Badge]](www.linkedin.com/in/kamila-cerdeira) 
+I'm currently working as a react developer at Farmly, seeking to collaborate with Front-end projects using React.
 
-[![Gmail Badge]](mailto:kcerdeira.mkt@gmail.com)
+Contact me: 
+Linkedin -> www.linkedin.com/in/kamila-cerdeira
+E-mail -> kcerdeira.mkt@gmail.com
 
 ```
