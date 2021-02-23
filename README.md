@@ -1,16 +1,17 @@
-### Hi there 👋
+```markdown
+# Kamila Cerdeira
 
-<!--
-**kamilacerdeira/kamilacerdeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi There 👋
+I am a 23 years old Brazilian woman from Belo Horizonte - MG. I am currently going through a career transition process, totally changing the area of activity (Humanities → Web Development).
 
-Here are some ideas to get you started:
+Technology has always been present in my life, even if not in professional ways! As much as I chose to study history in college, programming insisted on knocking on the door from time to time. Until, last year, when I decided to make this relationship official!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey through Humanities didn't come close to being a waste of time ... it led me to get where I am now, with all my strengths and potentials, which will help me to succeed in technology and maybe, who knows, in your project!
+
+ I'm currently working as a react developer at Farmly
+ <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge]](www.linkedin.com/in/kamila-cerdeira) 
+| 
+[![Gmail Badge]](mailto:kcerdeira.mkt@gmail.com)
+
+```
